@@ -1,0 +1,25 @@
+{
+  "config": {
+    "name": "testnetJOYS",
+    "chainId": 99415706,
+    "homesteadBlock": 1,
+    "eip150Block": 2,
+    "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "eip155Block": 3,
+    "eip158Block": 3,
+    "byzantiumBlock": 4,
+    "ethash": {}
+  },
+  "nonce": "0x0",
+  "timestamp": "0x5bec24f8",
+  "gasLimit": "0x47b760",
+  "difficulty": "0x80000",
+  "mixHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "coinbase": "0x592d790a47778e1baef3bc00a4e06f32d840ffd0",
+  "number": "0x0",
+  "gasUsed": "0x0",
+  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "alloc": {
+    "0x592d790a47778e1baef3bc00a4e06f32d840ffd0": {"balance": "200000000000000000000000000000000"}
+  }
+}
