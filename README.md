@@ -1,7 +1,7 @@
 Joys-testing-network
 ====================
 
-### Joys **testing** private Ethereum based crypto-network.
+### Joys testing private Ethereum based crypto-network.
 
  
 
@@ -21,7 +21,7 @@ The main differences from the main network Joys:
 
  
 
-### **Тестовая **крипто-сеть Joys на базе приватных сетей Ethereum.
+### Тестовая крипто-сеть Joys на базе приватных сетей Ethereum.
 
  
 
